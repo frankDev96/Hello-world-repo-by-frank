@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frankDev96/Hello-world-repo-by-frank.git/static/css/main.c2db431d.css",
+    "main.js": "/frankDev96/Hello-world-repo-by-frank.git/static/js/main.7bf5a50d.js",
+    "static/js/787.a9120f67.chunk.js": "/frankDev96/Hello-world-repo-by-frank.git/static/js/787.a9120f67.chunk.js",
+    "index.html": "/frankDev96/Hello-world-repo-by-frank.git/index.html",
+    "main.c2db431d.css.map": "/frankDev96/Hello-world-repo-by-frank.git/static/css/main.c2db431d.css.map",
+    "main.7bf5a50d.js.map": "/frankDev96/Hello-world-repo-by-frank.git/static/js/main.7bf5a50d.js.map",
+    "787.a9120f67.chunk.js.map": "/frankDev96/Hello-world-repo-by-frank.git/static/js/787.a9120f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2db431d.css",
+    "static/js/main.7bf5a50d.js"
+  ]
+}

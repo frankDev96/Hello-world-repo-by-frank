@@ -14,12 +14,12 @@
   },
   "homepage": "https://frankDev96.github.io/Hello-world-repo-by-frank",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "heroku-postbuild": "npm run build"
   },
   "eslintConfig": {

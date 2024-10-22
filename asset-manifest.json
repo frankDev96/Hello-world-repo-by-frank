@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hello-world-repo-by-frank/static/css/main.c2db431d.css",
-    "main.js": "/Hello-world-repo-by-frank/static/js/main.ee7d015f.js",
-    "static/js/787.a9120f67.chunk.js": "/Hello-world-repo-by-frank/static/js/787.a9120f67.chunk.js",
+    "main.css": "/Hello-world-repo-by-frank/static/css/main.5b7a9a3e.css",
+    "main.js": "/Hello-world-repo-by-frank/static/js/main.b651b9eb.js",
+    "static/js/453.20952338.chunk.js": "/Hello-world-repo-by-frank/static/js/453.20952338.chunk.js",
     "index.html": "/Hello-world-repo-by-frank/index.html",
-    "main.c2db431d.css.map": "/Hello-world-repo-by-frank/static/css/main.c2db431d.css.map",
-    "main.ee7d015f.js.map": "/Hello-world-repo-by-frank/static/js/main.ee7d015f.js.map",
-    "787.a9120f67.chunk.js.map": "/Hello-world-repo-by-frank/static/js/787.a9120f67.chunk.js.map"
+    "main.5b7a9a3e.css.map": "/Hello-world-repo-by-frank/static/css/main.5b7a9a3e.css.map",
+    "main.b651b9eb.js.map": "/Hello-world-repo-by-frank/static/js/main.b651b9eb.js.map",
+    "453.20952338.chunk.js.map": "/Hello-world-repo-by-frank/static/js/453.20952338.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2db431d.css",
-    "static/js/main.ee7d015f.js"
+    "static/css/main.5b7a9a3e.css",
+    "static/js/main.b651b9eb.js"
   ]
 }

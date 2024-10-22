@@ -1,16 +1,34 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import Home from "./screens/Home";
+import Profile from "./screens/Profile";
+import AboutUs from "./screens/AboutUs";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header" >
-        <p>
-          <h1 className='textStyle'>Hello World</h1> by <h4>Franklin Samuvel</h4>
-          <h4>Software developer</h4>
-        </p>
-      </header>
-    </div>
+    <Router>
+      <div className="app">
+        <nav>
+          <ul>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/profile">Profile</Link>
+            </li>
+            <li>
+              <Link to="/about">About Us</Link>
+            </li>
+          </ul>
+        </nav>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/profile" element={<Profile />} />
+          <Route path="/about" element={<AboutUs />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

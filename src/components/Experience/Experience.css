@@ -1,0 +1,43 @@
+.experience {
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.experience h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.experience-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.project h3 {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 10px;
+}
+
+.progress {
+    background-color: #007bff;
+    height: 100%;
+    border-radius: 10px;
+    transition: width 0.4s ease-in-out;
+}
